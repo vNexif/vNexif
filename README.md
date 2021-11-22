@@ -3,7 +3,7 @@
 <img src="HakaBoi.gif" width="350">
 
 ---
-### `What I'm doing:`
+### `I'm doing:`
 
 ```swift
     func Daily(){
@@ -19,13 +19,13 @@
         HackSomeShizz(Break: "Everything", Repair: "Everything")
     }
 ```
-### `What I'm learning:`
+### `I'm learning:`
 
 * Golang
 
 * Rust
   
-### `What I like:`
+### `I like:`
 
 * Coffee (If you still don't know).
 
