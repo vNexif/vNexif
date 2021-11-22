@@ -1,4 +1,4 @@
-## Hello, Traveler from afar.
+### Hello, Traveler from afar.
 ## Enjoy your stay. <img src="https://media.giphy.com/media/LUokZJ21LM39f6d0Md/giphy.gif" width="40">
 <img src="HakaBoi.gif" width="350">
 
