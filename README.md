@@ -7,13 +7,13 @@
 
 ```swift
     func Daily(){
-        let OS        = ["Linux", "BSD", "MacOS", "Windows Server", "Windows"]
-        let NetDevs   = ["Cisco", "Ubiquiti", "D-link", "Dell", "BSD-based", "Linux-based"]
-        let CodeLangs = ["Bash", "Powershell", "Python", "C/Cpp", "C#", "Yaml", "Swift?"]
+        let OS         = ["Linux", "BSD", "MacOS", "Windows Server", "Windows"]
+        let NetDevices = ["Cisco", "Ubiquiti", "D-link", "Dell", "BSD-based", "Linux-based"]
+        let CodeLangs  = ["Bash", "Powershell", "Python", "C/Cpp", "C#", "Yaml", "Swift?"]
 
         DrinkCoffee(Caffeine: "A lot :)")
-        Code(Languages: CodeLang)
-        Admin(VM: ESXI(OS), Container: Docker(), Network: NetDev)
+        Code(Languages: CodeLangs)
+        Admin(VM: ESXI(OS), Container: Docker(), Network: NetDevices)
     //  MoreCoffee()
         PretendStudent(Person: "Nexif") //Works Well
         HackSomeShizz(Break: "Everything", Repair: "Everything")
