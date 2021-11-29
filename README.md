@@ -16,7 +16,7 @@
         Admin(VM: ESXI(OS), Container: Docker(), Network: NetDevices)
     //  MoreCoffee()
         PretendStudent(Person: "Nexif") //Works Well
-        HackSomeShizz(Break: "Everything", Repair: "Everything")
+        HackSomeShizz(Break: "Everything", Repair: "Most of it")
     }
 ```
 ### `I'm learning:`
