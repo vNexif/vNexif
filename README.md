@@ -35,7 +35,7 @@
 
 * Breaking Stuff. 
   
-* Sewerslvt. 🎧
+* Sewerslvt, Ennja, Sibwest, Sylosis. 🎧
   
 
 `Reach Me @Nexif#5803`
