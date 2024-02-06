@@ -115,7 +115,7 @@
 ![](https://img.shields.io/badge/-C++-black?logoColor=ffffff&color=00599C&style=flat-square&logo=c%2B%2B)
 ![](https://img.shields.io/badge/-C%23-black?logoColor=ffffff&color=239120&style=flat-square&logo=csharp)
 ![](https://img.shields.io/badge/-Python-black?logoColor=ffffff&color=3776AB&style=flat-square&logo=python)
-![](https://img.shields.io/badge/-Python-black?logoColor=ffffff&color=3776AB&style=flat-square&logo=javascript)
+![](https://img.shields.io/badge/-JavaScript-black?logoColor=ffffff&color=F7DF1E&style=flat-square&logo=javascript)
 
 
 ## Security
